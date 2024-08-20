@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on workflow automation
+- 👯 I’m looking to collaborate on all things AI/ML & Frontend.
 <!--
 **AChangXD/AChangXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
